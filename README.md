@@ -1,54 +1,158 @@
-# Brayan Padilla
+# Hi there 👋 I'm Brayan Padilla
 
-**Full Stack Developer**  
-Backend & Mobile focused — logistics and agroindustry solutions
+## Mobile & Backend Engineer
 
-I build maintainable systems focused on **process automation**, **data reliability**, and **clean architecture**, working close to business logic from backend services to mobile applications.
+I build reliable software focused on **Android development**, **backend services**, and **offline-first architectures** for logistics and agroindustry.
 
-🌐 Portfolio → https://brayanpp.vercel.app/
+Passionate about creating scalable applications that solve real operational problems, from backend APIs to mobile experiences used daily in the field.
 
----
-
-## 💼 Current Role
-**Mobile Developer @ Sioma**  
-
-- Backend services focused on scalability and clean architecture
-- Mobile apps for operational and field use
-- Close collaboration with product and operations teams
+🌐 **Portfolio:** https://brayanpp.vercel.app/
 
 ---
 
-## 🧩 Experience
-- **Backend & Mobile Developer** — Sioma (Jun 2025 – Present)
-- **Freelance Developer** — Mobile & Web (Jun 2023 – Dec 2024)
-- **Full Stack Developer** — PideYa Urabá (Feb 2023 – Jul 2023)
+## 🚀 About Me
+
+- 📱 Mobile Developer at **Sioma**
+- 🌱 Building software for agriculture, logistics, and field operations
+- 🏗️ Passionate about Clean Architecture, SOLID, and maintainable code
+- ⚡ Interested in performance optimization, synchronization strategies, and observability
+- 💡 Always learning modern Android technologies and software architecture
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Experience
 
-| Area       | Technologies |
-|------------|--------------|
-| **Backend** | PHP, Laravel, Java, Node.js, REST APIs |
-| **Mobile** | Flutter (Dart), Android |
-| **Frontend** | JavaScript, React, Filament PHP |
-| **Databases** | MySQL, SQL Server, MongoDB |
+### Mobile Developer — Sioma
+**Jun 2025 – Present**
 
----
+Working on Android applications used in agroindustry operations.
 
-## 🧠 How I Work
-- Clean, readable code
-- SOLID principles
-- Clear separation of concerns
-- Practical architectures that scale
-- End-to-end ownership (API ↔ Mobile)
+Main responsibilities include:
 
----
-
-## ⚙️ Tools & Practices
-Git · Docker · Postman · Composer · NPM  
-Scrum / Kanban · Code Reviews · TDD (when applicable)
+- Native Android development with Kotlin & Jetpack Compose
+- Offline-first architecture
+- Data synchronization
+- Mapbox integration
+- Firebase services
+- REST API integration
+- Clean Architecture (MVVM)
+- Performance optimization
+- Feature design and implementation
 
 ---
 
-📍 **Turbo, Antioquia** — Remote-friendly
+### Freelance Developer
+**Jun 2023 – Dec 2024**
+
+Developed mobile and web applications for different clients.
+
+---
+
+### Full Stack Developer — PideYa Urabá
+**Feb 2023 – Jul 2023**
+
+Developed backend services and web applications focused on delivery operations.
+
+---
+
+# 🛠 Tech Stack
+
+### 📱 Mobile
+
+- Kotlin
+- Jetpack Compose
+- Coroutines & Flow
+- Room
+- Hilt
+- WorkManager
+- DataStore
+- CameraX
+- ML Kit
+- Mapbox SDK
+- Firebase
+
+### ⚙️ Backend
+
+- PHP
+- Laravel
+- Lumen
+- REST APIs
+- Java
+- Node.js
+
+### 💾 Databases
+
+- MySQL
+- SQL Server
+- MongoDB
+
+### 🌐 Frontend
+
+- JavaScript
+- React
+- Filament PHP
+
+### ☁️ Cloud & Services
+
+- Firebase Authentication
+- Cloud Firestore
+- Cloud Storage
+- Cloud Messaging
+- Crashlytics
+
+---
+
+# 🏗 Architecture & Engineering
+
+I enjoy designing software that is:
+
+- Clean and maintainable
+- Offline-first
+- Scalable
+- Testable
+- Modular
+- Business-oriented
+
+Common patterns:
+
+- MVVM
+- Repository Pattern
+- Dependency Injection
+- SOLID Principles
+- Clean Architecture
+
+---
+
+# 🔧 Tools
+
+- Android Studio
+- IntelliJ IDEA
+- VS Code
+- Git
+- GitHub
+- Docker
+- Postman
+- Composer
+- Gradle
+- Laragon
+
+---
+
+# 📚 Currently Exploring
+
+- Advanced Android performance
+- OpenTelemetry
+- CI/CD for Android
+- Local AI on Android
+- Software Architecture
+- High-performance synchronization strategies
+
+---
+
+## 📫 Connect with Me
+
+🌐 Portfolio: https://brayanpp.vercel.app/
+
+---
+
+> *"Building software that works reliably where connectivity doesn't."*
